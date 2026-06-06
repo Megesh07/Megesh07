@@ -1,91 +1,119 @@
+<!-- CAPSULE RENDER HERO: CYBERPUNK / JARVIS VIBE -->
 <div align="center">
-  <h1>Megeshwara S.</h1>
-  <p><b>AI Software Engineer | Hackathon Winner | Builder</b></p>
-  <p><i>Engineering AI pipelines that survive production.</i></p>
-  
-  <p>
-    <a href="https://linkedin.com/in/megeshwaras">LinkedIn</a> • 
-    <a href="mailto:megeshsundharaj@gmail.com">Email</a> • 
-    <a href="https://github.com/Megesh07">GitHub</a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D4FF&height=250&section=header&text=MEGESHWARA_S&fontSize=60&fontColor=ffffff&animation=twinkling&desc=AI%20SYSTEMS%20ARCHITECT%20//%20DATA%20ENGINEER&descSize=20&descColor=00D4FF&fontAlignY=35&descAlignY=55" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megesh07&theme=transparent&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9&bg_color=00000000" width="100%" alt="Activity Graph" />
+  <!-- Typing SVG Cyberpunk Style -->
+  <a href="https://github.com/Megesh07">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=>_INIT_AI_ENGINEER_PROTOCOL;>_DEPLOYING_VOICE_AGENTS;>_BUILDING_RAG_PIPELINES;>_HACKATHON_WINNER_DETECTED" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/megeshwaras"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:megeshsundharaj@gmail.com"><img src="https://img.shields.io/badge/EMAIL_SECURE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Megesh07"><img src="https://img.shields.io/badge/GITHUB_TERMINAL-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
 
-## ⌘ The TL;DR
+## 📡 [ SYSTEM STATUS: ONLINE ]
 
-I am an **AI Software Engineer** focused on applied machine learning, voice pipelines, and agentic systems. I specialize in bridging the gap between experimental models and scalable production backends.
+```yaml
+system_id: "Megeshwara S."
+clearance_level: "AI Software Engineer"
+current_mission: "Building low-latency, game-state-aware voice pipelines."
+primary_cores: 
+  - Voice AI & Wake-Word Detection
+  - Advanced RAG Architectures
+  - High-Concurrency Microservices
+live_status: "Available for Internships & Open-Source Collabs"
+last_achievement: "🥇 1st Place - AI Demos × VideoDB Hackathon 2025"
+```
 
-- 🏆 **Highlight:** 1st Place at AI Demos × VideoDB Hackathon 2025
-- 💻 **Current:** AI Software Engineer at Hyperverse Studios
-- 🎓 **Education:** Integrated M.Tech AI @ VIT Bhopal (2022–2027)
+<br/>
 
----
+## ⚡ [ CORE DIRECTIVES // HIGHLIGHTED BUILDS ]
 
-## 🛠️ Engineering Focus
+> **[ 🛡️ AEGIS AI PRO ] — AI Video Compliance Co-Pilot**  
+> *GPT-4o • VideoDB • RAG • Streamlit • Python*  
+> <br>
+> **[ PROBLEM ]** Manual auditing of video content across 6 social platforms is slow and error-prone.  
+> **[ SOLUTION ]** Engineered a GPT-4o + VideoDB RAG pipeline that maps video content against specific platform rulesets, outputting 1–10 risk scoring with self-correction.  
+> **[ IMPACT ]** 🏆 Won 1st Place at the AI Demos × VideoDB Hackathon 2025.  
 
-**🗣️ Voice & Audio AI Pipelines**  
-Building real-time systems with on-device wake-word detection, Voice Activity Detection (VAD), and WebSocket audio streaming. Integrating Whisper v3 and Gemini Live for low-latency, state-aware AI interactions.
+<br>
 
-**🧠 LLMs & Agentic Systems**  
-Designing advanced RAG architectures, AST-based semantic parsers, and multi-stage reasoning workflows (e.g., GPT-4o auditing against complex rulesets with self-correction fallbacks).
+> **[ 📄 DOCGEN ] — Live AST-Based Documentation Engine**  
+> *FastAPI • Groq Llama-3.3 • React • GitHub Actions*  
+> <br>
+> **[ PROBLEM ]** Codebases suffer from stale docstrings, killing developer velocity.  
+> **[ SOLUTION ]** Built a 2-stage LLM pipeline parsing Python ASTs to detect undocumented functions and dynamically generate context-aware docstrings.  
+> **[ IMPACT ]** Radically reduced hallucinations via a fallback template engine. CI/CD deployed.  
 
-**⚡ Scalable Production Backends**  
-Deploying AI as highly concurrent microservices using FastAPI, backed by vector databases, and deployed with robust CI/CD pipelines via GitHub Actions on Render and Vercel.
+<br>
 
----
+> **[ ⚡ EDGEFLEX AI ] — Predictive Energy Scheduler**  
+> *XGBoost • Scikit-learn • Streamlit • Joblib*  
+> <br>
+> **[ PROBLEM ]** Optimizing household appliance loads to perfectly align with solar surplus.  
+> **[ SOLUTION ]** Developed a greedy optimizer powered by an XGBoost forecasting model.  
+> **[ IMPACT ]** Reached a Mean Absolute Error (MAE) of 264.47W on edge constraints.  
 
-## 🚀 Selected Work
+<br/>
 
-### [Aegis AI Pro](https://github.com/Megesh07/Aegis-AI-Pro) — AI Video Compliance Co-Pilot
-> **The Problem:** Auditing video content across 6 different social platform rulesets is manual, subjective, and error-prone.  
-> **The Solution:** Engineered a GPT-4o + VideoDB RAG pipeline that ingests video, maps it against specific platform policies, and outputs evidence-backed 1–10 risk scoring with a self-correction fallback mechanism.  
-> **Impact:** 🏆 Won 1st Place at the AI Demos × VideoDB Hackathon 2025.  
-> `GPT-4o` `VideoDB` `RAG` `Streamlit` `Python`
-
-### [DocGen](https://github.com/Megesh07/DocGen) — Live AST-Based Documentation System
-> **The Problem:** Codebases rapidly accumulate stale or missing docstrings, slowing down developer onboarding.  
-> **The Solution:** Built a 2-stage LLM pipeline (Groq Llama-3.3) that parses Python Abstract Syntax Trees (AST) to detect undocumented functions and dynamically generate context-aware docstrings. Features a FastAPI backend and React UI.  
-> **Impact:** Significantly reduced hallucination via a fallback template engine. Fully deployed with CI/CD.  
-> `FastAPI` `Groq` `React` `GitHub Actions` `AST`
-
-### [EdgeFlex AI](https://github.com/Megesh07/EdgeFlexAI) — Predictive Energy Scheduler
-> **The Problem:** Optimizing household appliance loads is difficult without highly accurate forecasting of solar energy surplus.  
-> **The Solution:** Developed a greedy optimizer powered by an XGBoost forecasting model, achieving a Mean Absolute Error (MAE) of 264.47W.  
-> **Impact:** Proved that classical ML models can efficiently solve real-world constraint problems on edge devices.  
-> `XGBoost` `Scikit-learn` `Streamlit`
-
----
-
-## 💼 Experience
-
-**AI Software Engineer** @ Hyperverse Studios Pvt Ltd *(Feb 2026 – Apr 2026)*
-- Engineered a 3-stage voice pipeline from scratch (mic capture → VAD → WebSocket streaming).
-- Integrated Groq Whisper v3 Turbo as a fallback STT for game-state aware responses.
-- Contributed to a 2-stage desktop voice AI with on-device wake-word detection.
-
-**AI Engineer** @ Infosys Springboard 6.0 *(Dec 2025 – Feb 2026)*
-- Built the *DocGen* platform end-to-end (AST parser, backend, frontend, test suite).
-- Deployed full CI/CD pipelines and managed remote state.
-
-**Data Analyst** @ Vodafone Idea (VOIS) Foundation *(Sep 2025 – Oct 2025)*
-- Conducted deep EDA across high-volume datasets (Airbnb, Netflix) targeting pricing models and content distribution behavior.
-
----
-
-## 📊 Analytics & Core Stack
+## 🔌 [ TECHNOLOGY MAINFRAME ]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Megesh07&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megesh07&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" width="48%" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=py,ts,html,css,js,postgres,docker,git,githubactions&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,scikit,fastapi,react,nodejs,tailwind,bash,linux,gcp&theme=dark" />
 </div>
 
-<p align="center">
-  <b>Languages:</b> Python, TypeScript, SQL <br>
-  <b>ML/AI:</b> PyTorch, XGBoost, Scikit-learn, LangChain, Groq, OpenAI, Gemini <br>
-  <b>Engineering:</b> FastAPI, React, PostgreSQL, GitHub Actions, Docker <br>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT_4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+</div>
+
+<br/>
+
+## 📈 [ TELEMETRY & METRICS ]
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Megesh07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megesh07&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megesh07&theme=tokyo-night&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=ffffff" width="100%" />
+</div>
+
+<br/>
+
+## 🎖️ [ OPERATIONAL EXPERIENCE ]
+
+### **`[ ENGINEER.AI ]` Hyperverse Studios Pvt Ltd** *(Feb 2026 – Apr 2026)*
+> - Engineered a **3-stage voice pipeline** (mic capture → VAD → WebSocket streaming).
+> - Integrated Groq Whisper v3 Turbo as fallback STT for game-state aware responses.
+> - Deployed a 2-stage desktop voice AI with on-device wake-word detection.
+
+### **`[ ENGINEER.AI ]` Infosys Springboard 6.0** *(Dec 2025 – Feb 2026)*
+> - Built the **DocGen** platform end-to-end (AST parser, backend, frontend).
+> - Deployed complete CI/CD pipelines managing remote application state.
+
+### **`[ ANALYST.DATA ]` Vodafone Idea (VOIS) Foundation** *(Sep 2025 – Oct 2025)*
+> - Conducted high-volume deep EDA across Airbnb & Netflix datasets.
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D4FF&height=100&section=footer" width="100%" />
+</div>
