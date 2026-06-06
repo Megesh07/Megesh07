@@ -1,12 +1,12 @@
 <!-- CAPSULE RENDER HERO: CYBERPUNK / JARVIS VIBE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D4FF&height=250&section=header&text=MEGESHWARA_S&fontSize=60&fontColor=ffffff&animation=twinkling&desc=AI%20SYSTEMS%20ARCHITECT%20//%20DATA%20ENGINEER&descSize=20&descColor=00D4FF&fontAlignY=35&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D4FF&height=250&section=header&text=MEGESHWARA_S&fontSize=60&fontColor=ffffff&animation=twinkling&desc=AI%20ENGINEER%20//%20GENERATIVE%20AI%20BUILDER&descSize=20&descColor=00D4FF&fontAlignY=35&descAlignY=55" width="100%" />
 </div>
 
 <div align="center">
   <!-- Typing SVG Cyberpunk Style -->
   <a href="https://github.com/Megesh07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=>_INIT_AI_ENGINEER_PROTOCOL;>_DEPLOYING_VOICE_AGENTS;>_BUILDING_RAG_PIPELINES;>_HACKATHON_WINNER_DETECTED" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=>_INIT_AI_ENGINEER_PROTOCOL;>_BUILDING_GENERATIVE_AI;>_SCALING_LLM_SYSTEMS;>_HACKATHON_WINNER_DETECTED" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,11 +25,11 @@
 ```yaml
 system_id: "Megeshwara S."
 clearance_level: "AI Software Engineer"
-current_mission: "Building low-latency, game-state-aware voice pipelines."
+current_mission: "Building and scaling production-grade Generative AI systems."
 primary_cores: 
-  - Voice AI & Wake-Word Detection
-  - Advanced RAG Architectures
-  - High-Concurrency Microservices
+  - Generative AI & Large Language Models
+  - Advanced RAG & Agentic Workflows
+  - Scalable AI Backend Infrastructure
 live_status: "Available for Internships & Open-Source Collabs"
 last_achievement: "🥇 1st Place - AI Demos × VideoDB Hackathon 2025"
 ```
