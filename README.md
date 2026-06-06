@@ -68,8 +68,7 @@ last_achievement: "🥇 1st Place - AI Demos × VideoDB Hackathon 2025"
 ## 🔌 [ TECHNOLOGY MAINFRAME ]
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,html,css,js,postgres,docker,git,githubactions&theme=dark" /><br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,scikit,fastapi,react,nodejs,tailwind,bash,linux,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,scikit,fastapi,ts,react,postgres,githubactions&theme=dark" />
 </div>
 
 <br>
