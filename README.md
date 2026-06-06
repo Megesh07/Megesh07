@@ -68,7 +68,12 @@ last_achievement: "🥇 1st Place - AI Demos × VideoDB Hackathon 2025"
 ## 🔌 [ TECHNOLOGY MAINFRAME ]
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,scikit,fastapi,ts,react,postgres,githubactions&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=FF6600" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </div>
 
 <br>
