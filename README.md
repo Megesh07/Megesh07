@@ -80,16 +80,23 @@ last_achievement: "🥇 1st Place - AI Demos × VideoDB Hackathon 2025"
   <img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=for-the-badge&logo=groq&logoColor=white" />
 </div>
 
+<br>
+
+```yaml
+# >>> SKILL_REGISTRY_LOADED
+
+Languages:          ["Python", "SQL"]
+Data_Analysis:      ["Pandas", "NumPy", "Matplotlib", "Seaborn", "EDA"]
+Machine_Learning:   ["Scikit-learn", "XGBoost", "PyTorch", "Hugging Face", "Fine-tuning"]
+Deep_Learning:      ["Neural Networks", "NLP"]
+Generative_AI:      ["LLMs", "Prompt Engineering", "RAG", "LLM APIs (OpenAI, Gemini, Groq)"]
+Backend_and_APIs:   ["FastAPI", "REST APIs"]
+Tools_and_Workflow: ["Git", "Streamlit", "Jupyter Notebook"]
+```
+
 <br/>
 
 ## 📈 [ TELEMETRY & METRICS ]
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Megesh07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megesh07&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF" width="48%" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megesh07&theme=tokyo-night&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=ffffff" width="100%" />
